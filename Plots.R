@@ -1,4 +1,4 @@
-#MAK Example Code - 10 June 2015
+#MAK Example Code - 10 June 2015 - Successfully addded to github.
 
 setwd("C:/Users/MAK/Desktop/R/R_MAK")
 getwd()
